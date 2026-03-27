@@ -1,9 +1,6 @@
 # 💫 About Me:
-Nazarbayev University CS student, 3.1 gpa. 
-<br>Video editor with 4 years of experience.
-<br>Anime watcher and music enjoyer.
-<br>Side quests: piano and drawing.
-<br>I made university courses materials private (Operating Systems, Computer Networks, Computer System Organization, Artificial Intelligence, Programming Languages, Algorithms, Software Testing and Quality Assurance, C)
+Nazarbayev University CS student, 3.15 gpa. 
+<br>Video editor with 5 years of experience.
 
 
 ## 🌐 Socials:
