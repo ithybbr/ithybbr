@@ -1,5 +1,5 @@
 # 💫 About Me:
-Nazarbayev University CS student, 3.15 gpa. 
+Nazarbayev University CS graduate, 3.22 gpa. 
 <br>Video editor with 5 years of experience.
 
 
